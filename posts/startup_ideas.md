@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 # Summary
-This post contains the list of startup ideas that I see has a potential to become a sizeable (~10M$ revenue) company. I will be listing down the ideas and for each ideas, i will also have a separate post detailing the research i made to analyze the ideas. This is a running list and i will keep adding more ideas as and when i see.
+This post contains the list of startup ideas which I see has a potential to become a sizeable (~10M$ revenue) company. For each ideas listed below, i will adding separate post detailing the research i made to analyze the ideas. This is a running list and i will keep adding more ideas as and when i see.
 
 ## B2B Saas Ideas
 1. Interview management & employee onboarding platform
@@ -24,3 +24,4 @@ This post contains the list of startup ideas that I see has a potential to becom
 12. Workflow management platform to manage multiple workflows in the company for handling all internal processes. (workflow for reimbursement, applying leaves, creating issues, sending feedbacks etc.)
 13. Employee overall management - Onboarding, Performance (OKRs), Benefits, Leaves, Rewards and Recognitions, Engagements etc.
 14. ChatGPT based wireframe generator (low-fi & high-fi). Chat with the bot and generate wireframes for your product.
+15. Cross product dashboard generator. Generate any dashboards across products easily. Provide the widgets, integrate with sources, add templates so that dashboards can be generated easily by anyone. Ex - A dashboard can be created to visualize all the developers tools in one place like GitHub commit history, recently opened issues (from JIRA), latest deployment status across stages from CI/CD pipeline, cloudwatch metrics etc etc.

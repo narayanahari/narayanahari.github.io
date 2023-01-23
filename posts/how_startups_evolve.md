@@ -1,7 +1,7 @@
 ---
 title: How startups evolve ?
 description: Startup evolution
-date: 2022-12-07
+date: 2023-01-15
 tags:
   - startup
 layout: layouts/post.njk
