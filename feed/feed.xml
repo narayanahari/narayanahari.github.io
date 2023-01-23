@@ -5,32 +5,12 @@
 	
 	<link href="https://narayanahari.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://narayanahari.github.io/"/>
-	<updated>2023-01-23T02:28:19Z</updated>
+	<updated>2023-01-23T00:00:00Z</updated>
 	<id>https://narayanahari.github.io/</id>
 	<author>
 		<name>Hari Narayanan</name>
 		<email>narayanahari@gmail.com</email>
 	</author>
-	
-	<entry>
-		<title></title>
-		<link href="https://narayanahari.github.io/posts/2023/"/>
-		<updated>2023-01-23T02:28:19Z</updated>
-		<id>https://narayanahari.github.io/posts/2023/</id>
-		<content type="html">&lt;h2 id=&quot;my-goals-for-2023&quot; tabindex=&quot;-1&quot;&gt;My goals for 2023 &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/2023/#my-goals-for-2023&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;Health is the important asset and I have to ensure that atleast i am up by 8 kgs by the end of this year. As of now I am 58 kgs and i should be 66 kgs by end of this year and the weight should be muscle mass and not pot belly.&lt;/li&gt;
-&lt;li&gt;Start investing in right instruments like startups, real estates, stocks which has the potential to compound in long run.&lt;/li&gt;
-&lt;li&gt;Start and run a blog consistently. Minimum 1 post a week. 52 posts this year.&lt;/li&gt;
-&lt;li&gt;Read 52 books and write review for each book as a separate blog post.
-4.a - Read 50 pages every day. So you have to spend 1.5 hrs every day for reading.&lt;/li&gt;
-&lt;li&gt;Spend 2 hrs in the morning with kids and 1 hr at night.&lt;/li&gt;
-&lt;li&gt;Learn cooking and art.&lt;/li&gt;
-&lt;li&gt;Eat junk food once a week and dont eat any food (except water) after 9 PM at night.&lt;/li&gt;
-&lt;li&gt;Collect the ideas and build something consistently. Once a month, launch something. Atleast 10-12 products should be launched this year.&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-	</entry>
 	
 	<entry>
 		<title>My reading list in 2023</title>
@@ -139,6 +119,26 @@
 &lt;li&gt;&lt;a href=&quot;https://www.indiehackers.com/interviews/&quot;&gt;https://www.indiehackers.com/interviews/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;NOTE: I am no startup expert. I didnt start or ran a successful startup company. The above post is just my observation so far while closely following the tech startup scene. As mentioned in my about section page, the posts in this site are just reflection of my thoughts which i believe will help me in providing more clarity to my thoughts. So take it with a pinch of salt.&lt;/em&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>My 2023 Goals</title>
+		<link href="https://narayanahari.github.io/posts/2023/"/>
+		<updated>2022-12-07T00:00:00Z</updated>
+		<id>https://narayanahari.github.io/posts/2023/</id>
+		<content type="html">&lt;h2 id=&quot;my-goals-for-2023&quot; tabindex=&quot;-1&quot;&gt;My goals for 2023 &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/2023/#my-goals-for-2023&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Health is the important asset and I have to ensure that atleast i am up by 8 kgs by the end of this year. As of now I am 58 kgs and i should be 66 kgs by end of this year and the weight should be muscle mass and not pot belly.&lt;/li&gt;
+&lt;li&gt;Start investing in right instruments like startups, real estates, stocks which has the potential to compound in long run.&lt;/li&gt;
+&lt;li&gt;Start and run a blog consistently. Minimum 1 post a week. 52 posts this year.&lt;/li&gt;
+&lt;li&gt;Read 52 books and write review for each book as a separate blog post.
+4.a - Read 50 pages every day. So you have to spend 1.5 hrs every day for reading.&lt;/li&gt;
+&lt;li&gt;Spend 2 hrs in the morning with kids and 1 hr at night.&lt;/li&gt;
+&lt;li&gt;Learn cooking and art.&lt;/li&gt;
+&lt;li&gt;Eat junk food once a week and dont eat any food (except water) after 9 PM at night.&lt;/li&gt;
+&lt;li&gt;Collect the ideas and build something consistently. Once a month, launch something. Atleast 10-12 products should be launched this year.&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 </feed>

@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://narayanahari.github.io/posts/2023/</loc>
+    <lastmod>2022-12-07</lastmod>
+  </url>
+  
+  <url>
     <loc>https://narayanahari.github.io/posts/how_startups_evolve/</loc>
     <lastmod>2022-12-07</lastmod>
   </url>
@@ -42,12 +47,12 @@
   </url>
   
   <url>
-    <loc>https://narayanahari.github.io/posts/2023/</loc>
+    <loc>https://narayanahari.github.io/tags/</loc>
     <lastmod>2023-01-23</lastmod>
   </url>
   
   <url>
-    <loc>https://narayanahari.github.io/tags/</loc>
+    <loc>https://narayanahari.github.io/tags/goals/</loc>
     <lastmod>2023-01-23</lastmod>
   </url>
   
