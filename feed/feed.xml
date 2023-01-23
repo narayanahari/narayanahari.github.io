@@ -5,7 +5,7 @@
 	
 	<link href="https://narayanahari.github.io/feed/feed.xml" rel="self"/>
 	<link href="https://narayanahari.github.io/"/>
-	<updated>2022-12-07T00:00:00Z</updated>
+	<updated>2023-01-23T02:28:19Z</updated>
 	<id>https://narayanahari.github.io/</id>
 	<author>
 		<name>Hari Narayanan</name>
@@ -13,30 +13,93 @@
 	</author>
 	
 	<entry>
+		<title></title>
+		<link href="https://narayanahari.github.io/posts/2023/"/>
+		<updated>2023-01-23T02:28:19Z</updated>
+		<id>https://narayanahari.github.io/posts/2023/</id>
+		<content type="html">&lt;h2 id=&quot;my-goals-for-2023&quot; tabindex=&quot;-1&quot;&gt;My goals for 2023 &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/2023/#my-goals-for-2023&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Health is the important asset and I have to ensure that atleast i am up by 8 kgs by the end of this year. As of now I am 58 kgs and i should be 66 kgs by end of this year and the weight should be muscle mass and not pot belly.&lt;/li&gt;
+&lt;li&gt;Start investing in right instruments like startups, real estates, stocks which has the potential to compound in long run.&lt;/li&gt;
+&lt;li&gt;Start and run a blog consistently. Minimum 1 post a week. 52 posts this year.&lt;/li&gt;
+&lt;li&gt;Read 52 books and write review for each book as a separate blog post.
+4.a - Read 50 pages every day. So you have to spend 1.5 hrs every day for reading.&lt;/li&gt;
+&lt;li&gt;Spend 2 hrs in the morning with kids and 1 hr at night.&lt;/li&gt;
+&lt;li&gt;Learn cooking and art.&lt;/li&gt;
+&lt;li&gt;Eat junk food once a week and dont eat any food (except water) after 9 PM at night.&lt;/li&gt;
+&lt;li&gt;Collect the ideas and build something consistently. Once a month, launch something. Atleast 10-12 products should be launched this year.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>My reading list in 2023</title>
+		<link href="https://narayanahari.github.io/posts/readings/"/>
+		<updated>2023-01-23T00:00:00Z</updated>
+		<id>https://narayanahari.github.io/posts/readings/</id>
+		<content type="html">&lt;h1 id=&quot;books&quot; tabindex=&quot;-1&quot;&gt;Books &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/readings/#books&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;ol&gt;
+&lt;li&gt;The myth of spoiled kids - Alfie Kohn - Read&lt;/li&gt;
+&lt;li&gt;Almanack of Naval Ravikanth - Eric Jorgenson - Read&lt;/li&gt;
+&lt;li&gt;The courage to be disliked - Ichiro Kishimi &amp;amp; Fumitake koga - Currently Reading - ETA 26th Jan&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;blogs&quot; tabindex=&quot;-1&quot;&gt;Blogs &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/readings/#blogs&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://fs.blog/&quot;&gt;https://fs.blog/&lt;/a&gt;
+&lt;a href=&quot;https://www.alfiekohn.org/&quot;&gt;https://www.alfiekohn.org/&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Startup ideas</title>
+		<link href="https://narayanahari.github.io/posts/startup_ideas/"/>
+		<updated>2022-12-07T00:00:00Z</updated>
+		<id>https://narayanahari.github.io/posts/startup_ideas/</id>
+		<content type="html">&lt;h1 id=&quot;summary&quot; tabindex=&quot;-1&quot;&gt;Summary &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/startup_ideas/#summary&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This post contains the list of startup ideas that I see has a potential to become a sizeable (~10M$ revenue) company. I will be listing down the ideas and for each ideas, i will also have a separate post detailing the research i made to analyze the ideas. This is a running list and i will keep adding more ideas as and when i see.&lt;/p&gt;
+&lt;h2 id=&quot;b2b-saas-ideas&quot; tabindex=&quot;-1&quot;&gt;B2B Saas Ideas &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/startup_ideas/#b2b-saas-ideas&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Interview management &amp;amp; employee onboarding platform&lt;/li&gt;
+&lt;li&gt;ChatGPT-based code generator to auto-generate unit tests, integration tests.&lt;/li&gt;
+&lt;li&gt;Lightweight issue management solution to collaborate and track tasks across multiple parts of the organization. A progress tracker. Also a hierarchical issue management solution.&lt;/li&gt;
+&lt;li&gt;Lightweight collaborative IDE, issue manager, note taker - the all-in-one platform&lt;/li&gt;
+&lt;li&gt;ChatGPT-based sales email creator which provides personalized emails based on the email recepient&#39;s online presence.&lt;/li&gt;
+&lt;li&gt;Test engine which tests the wireframe prototype and the actual product images and magically creates issues on any UI discrepancies.&lt;/li&gt;
+&lt;li&gt;Service for onboarding a startup company in any geography. Helps startups handle their legal, compliance, accounting requirements. Also help on providing sales, marketing, project tracking templates. A place to discover other startups for collaboration.&lt;/li&gt;
+&lt;li&gt;Board games and collaborative engagement solutions for remote working employees.&lt;/li&gt;
+&lt;li&gt;Corporate gift management platform.&lt;/li&gt;
+&lt;li&gt;Create bots for repeatable tasks. Record tasks performed in the browser and templatize the tasks.&lt;/li&gt;
+&lt;li&gt;GIF creator for generating product tutorials. UI previews can be added in the docs.&lt;/li&gt;
+&lt;li&gt;Workflow management platform to manage multiple workflows in the company for handling all internal processes. (workflow for reimbursement, applying leaves, creating issues, sending feedbacks etc.)&lt;/li&gt;
+&lt;li&gt;Employee overall management - Onboarding, Performance (OKRs), Benefits, Leaves, Rewards and Recognitions, Engagements etc.&lt;/li&gt;
+&lt;li&gt;ChatGPT based wireframe generator (low-fi &amp;amp; high-fi). Chat with the bot and generate wireframes for your product.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>How startups evolve ?</title>
 		<link href="https://narayanahari.github.io/posts/how_startups_evolve/"/>
 		<updated>2022-12-07T00:00:00Z</updated>
 		<id>https://narayanahari.github.io/posts/how_startups_evolve/</id>
-		<content type="html">&lt;p&gt;There is a lot of startup buzz these days. Technology is the reason for this buzz and its also the reason why today so many tech entreprenueres are able to build companies from scratch and take them to million or billion dollar valuations. We are very fortunate to live in a world full of opportunities. This was beyond reach even for our last generation human beings.&lt;/p&gt;
-&lt;p&gt;So this post is about how a tech startups evolve. This will give a map on how startups are born and what stages a company goes through, what skill sets required for founders/leadership in each of these stages etc.&lt;/p&gt;
+		<content type="html">&lt;p&gt;There is a lot of startup buzz these days. Technology is the main reason for this buzz and its the reason why today so many tech entreprenueres are able to build companies from scratch and take them to million / billion dollar valuations. We are fortunate to live in a world full of opportunities. This was beyond reach even for the last generation humans.&lt;/p&gt;
+&lt;p&gt;Objective of this post is to talk about how tech statups evolve and grow, what skill sets required for founders &amp;amp; leaders in every stage of the company.&lt;/p&gt;
 &lt;h1 id=&quot;evolution&quot; tabindex=&quot;-1&quot;&gt;Evolution &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#evolution&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h1&gt;
-&lt;p&gt;Startup is born when one or more individuals (will be called as founders hereafter) have a burning desire to solve a problem or provide a service to the market.&lt;/p&gt;
-&lt;p&gt;Once the problem and initial founding members are identified the journey of a company kicks off.&lt;/p&gt;
-&lt;p&gt;Generally startups goes through 3 stages before becoming a big company. &lt;strong&gt;0-1 stage, 1-10 stage and 10-100&lt;/strong&gt; stage based on the revenue. Startups should follow different operating models and founders need to posess different skill sets in operating each of these stages.&lt;/p&gt;
+&lt;p&gt;A startup is born when one or more individuals have a burning desire to solve a problem or provide a service to the market. Once the problem and founding members are identified, the journey of our company starts.&lt;/p&gt;
+&lt;p&gt;Generally startups goes through 3 stages. &lt;strong&gt;0-1 stage, 1-10 stage and 10-100&lt;/strong&gt;. Each startup follows different operating models in these stages and founders needs different skill sets in operating the company on each of these stages.&lt;/p&gt;
 &lt;h2 id=&quot;0-1-stage&quot; tabindex=&quot;-1&quot;&gt;0-1 Stage &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#0-1-stage&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Its the timeline between just a startup idea to 500K - 1M ARR. Priority at this stage of a company should be to get the product out as soon as possible so that customers are ready to use and pay for it.&lt;/p&gt;
+&lt;p&gt;Its the timeline between just a startup idea to 500K - 1M ARR. Priority at this stage of a company should be to get the product out as soon as possible so that customers are ready to use and pay for it. This is the pre PFM (Product Market Fit) stage.&lt;/p&gt;
 &lt;h3 id=&quot;role-of-the-founder&quot; tabindex=&quot;-1&quot;&gt;Role of the founder &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#role-of-the-founder&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Find the right team (of 1-2 person) who are passionate to work on the idea.&lt;/li&gt;
+&lt;li&gt;Find the right team (of ~10 people) who are passionate to work on the idea.&lt;/li&gt;
 &lt;li&gt;Speed of execution (atleast one major release a week).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;theme-of-the-company-at-this-stage&quot; tabindex=&quot;-1&quot;&gt;Theme of the company at this stage &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#theme-of-the-company-at-this-stage&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Speed trumps everything. No place for optimization or scale.&lt;/li&gt;
+&lt;li&gt;Speed trumps everything. No place for optimization or scale. Just ship as many features as possible so that your customers cuts you checks.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In recent times, i read few articles where companies are successful without going through this 0-1 stage of getting quick MVP (minimum viable product) and iterate. Figma is an example where the founders started their work on 2012 and the first public beta was released on 2015. For 3 full years, the founders were working on Figma&#39;s first beta launch and still Figma was able to run successful company and exit.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;My take&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;0-1 stage of a startup is all about fighting for survival. The only possible way a startup fail at this stage is by running out of cash. Even the product ideas are bound to pivot. So  startups should focus on getting the cash to survive either by convincing the customers or find a investor to get a longer runway. (In case of Figma, Dylan Field - CEO and Founder of Figma is a Theil Fellow who got 3.8M $ in 2013 just in one year after starting the company).&lt;/p&gt;
+&lt;p&gt;0-1 stage of a startup is all about fighting for survival. The only possible way a startup fail at this stage is by running out of cash. Product is bound to pivot. So startups should focus on getting the cash to survive either by sellling the product to customers or find a investor to get a longer runway. (In case of Figma, Dylan Field - CEO and Founder of Figma is a Theil Fellow who got 3.8M $ in 2013 just in one year after starting the company).&lt;/p&gt;
 &lt;h2 id=&quot;1-10-stage&quot; tabindex=&quot;-1&quot;&gt;1-10 Stage &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#1-10-stage&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;Its the timeline between your first paying customer (or first investor) to building a sizeable customer base to consistently get a revenue of 500K to 10M ARR. This stage is all about growth &amp;amp; scale so that new customers can easily oboard easily and existing customers can use your product at ease.&lt;/p&gt;
 &lt;h3 id=&quot;role-of-the-founder-1&quot; tabindex=&quot;-1&quot;&gt;Role of the founder &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#role-of-the-founder-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
@@ -50,17 +113,17 @@
 &lt;ul&gt;
 &lt;li&gt;Growth and Increase the length of runway.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Once the team is onboarded and the flywheel starts in the positive direction, founders should slowly shift thier focus from day to day operations to long term strategies like brand building, community building, product positioning so that the startup is ready to take the next stage.&lt;/p&gt;
-&lt;p&gt;This part of the startup life is called &lt;strong&gt;Scale &amp;amp; Grow&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Once the team is onboarded and the flywheel starts in the positive direction, founders should slowly shift thier focus from day to day operations to medium term strategies like brand building, community building, product positioning so that the startup is ready to take the next stage.&lt;/p&gt;
+&lt;p&gt;This part of the startup life can be referred as &lt;strong&gt;Scale &amp;amp; Grow&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&quot;10-100-stage&quot; tabindex=&quot;-1&quot;&gt;10-100 Stage &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#10-100-stage&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;This the timeline between 10M to 100M ARR where the company will be competing against the big boys for fat contracts. At this stage, startup should look to provide competitive offering so that company&#39;s name should be considered as a verb (like google for search, slack for chat etc).&lt;/p&gt;
-&lt;p&gt;At this stage, startups should consider expanding horizontally by offering more products which aligns with the vision.&lt;/p&gt;
+&lt;p&gt;This the timeline between 10M to 100M ARR where the company will be competing against the big boys for fat contracts. At this stage, startup should look to provide competitive offering so that company&#39;s name should be considered as a verb (like google for search, slack for chat etc) in their respective domain.&lt;/p&gt;
+&lt;p&gt;At this stage, startups should consider expanding horizontally by offering more products and features and broaden their total adressable market size.&lt;/p&gt;
 &lt;h3 id=&quot;role-of-the-founders&quot; tabindex=&quot;-1&quot;&gt;Role of the founders &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#role-of-the-founders&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Strategy for long term (3-5 yrs) and encourage the leadership to think long term.&lt;/li&gt;
 &lt;li&gt;Setup the leadership team with broad responsibilities and goals.&lt;/li&gt;
 &lt;li&gt;Evangelize the product by conducting conferences, events, talks etc.&lt;/li&gt;
-&lt;li&gt;Slowly move away from day to day operations but should be willing to get to the details as on when required.&lt;/li&gt;
+&lt;li&gt;Completely move away from day to day operations but should be willing to get to the details and fire-fighting as on when required.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&quot;theme-for-the-company-1&quot; tabindex=&quot;-1&quot;&gt;Theme for the company &lt;a class=&quot;direct-link&quot; href=&quot;https://narayanahari.github.io/posts/how_startups_evolve/#theme-for-the-company-1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -75,7 +138,7 @@
 &lt;li&gt;&lt;a href=&quot;https://www.failory.com/&quot;&gt;https://www.failory.com/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://www.indiehackers.com/interviews/&quot;&gt;https://www.indiehackers.com/interviews/&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;NOTE: I am no startup expert. I didnt start or ran a successful startup company. The above post is just my observation so far while closely following the tech startup scene. As mentioned in the about section page, the posts in this site are just reflection of my thoughts which i believe will help me in providing more clarity. So take it a grain of salt.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;NOTE: I am no startup expert. I didnt start or ran a successful startup company. The above post is just my observation so far while closely following the tech startup scene. As mentioned in my about section page, the posts in this site are just reflection of my thoughts which i believe will help me in providing more clarity to my thoughts. So take it with a pinch of salt.&lt;/em&gt;&lt;/p&gt;
 </content>
 	</entry>
 </feed>
